@@ -138,7 +138,7 @@ const object1 = {
   education: 'Filosofian tohtori',
 }
 
-const object12 = {
+const object2 = {
   name: 'Full Stack -websovelluskehitys',
   level: 'aineopinto',
   size: 5,
