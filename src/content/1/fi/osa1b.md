@@ -530,3 +530,4 @@ Toinen hieno sivusto JavaScriptin oppimiseen on [javascript.info](https://javasc
 [egghead.io](https://egghead.io):ssa on tarjolla laadukkaita screencasteja JavaScriptista, Reactista ym. kiinnostavasta. Valitettavasti materiaali on osittain maksullista.
 
 </div>
+
